@@ -1,16 +1,34 @@
-## Hi there 👋
+# Digital Shop GT — Sitio Web
 
-<!--
-**digitalshopgt/digitalshopgt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sitio web de **Digital Shop GT**, empresa de productos y servicios tecnológicos ubicada en Xenacoj, Sacatepéquez, Guatemala.
 
-Here are some ideas to get you started:
+## Servicios
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔋 Cambio de Batería (Samsung, iPhone, Xiaomi, Motorola, Huawei)
+- 📱 Cambio de Pantalla de Celular
+- 💻 Cambio de Pantalla de Laptop
+- 🔓 Liberación de Red
+
+## Contacto
+
+📲 WhatsApp: [4252-3223](https://wa.me/50242523223)  
+📍 Xenacoj, Sacatepéquez, Guatemala
+
+## Estructura del proyecto
+
+```
+digitalshopgt.github.io/
+├── index.html      ← Página principal
+├── index.css       ← Estilos
+├── index.js        ← Scripts
+└── README.md       ← Este archivo
+```
+
+## Publicado con GitHub Pages
+
+Este sitio está publicado gratuitamente con **GitHub Pages**.  
+URL: `https://digitalshopgt.github.io`
+
+## Métodos de pago aceptados
+
+Visa · Mastercard · PayPal · Crypto
